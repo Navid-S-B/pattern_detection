@@ -1,0 +1,56 @@
+08/07/2019
+
+Finished first two excercises.
+
+Must do the following things:
+	-DO NOT need to test the first excercise further as it is trivial and will work for any case.
+	
+	-HOWEVER, the second excercise needs further testing. Although the code made on first attempt 
+	 in theory will work for any data set, as it considers the size of the pattern data set and the data 
+	 series and it does what is intended to do, it could be further optimised (probably not bc i just
+	 tried the while loop barrier and you still need the same amount of code, also my code is clear in its
+	 current form but i will see about that.).
+	
+	-Consider the following for the first two tasks:
+		-Use of meaningful variable names where applicable.
+		-Use of sensible comments to explain what you're doing.
+		-Use of docstring for documentation to identify purpose, author, date , data dictionary, 
+		 parameters, return value(s) and program description at the top of the file.
+
+Once these tasks are finished, then complete the other two.
+
+----------------------------------------------
+09/07/2019
+
+Completely finished the first two excercises as done with the conditions from the previous log.
+
+Updated the first two tasks with all the requirements stated in the previous task, although I did not choose to optimise the current code for the second
+task as finding out now that you have access to someone else's previous assignment, the code is well optimised. Although they did find a mathematical
+expression to find the final integer limit for the range of values, I just used a loop-break which is somewhat simpler, and only adds one extra line of 
+code soooooooo, yeah whatever.
+
+Next thing to do is to find out task 3 and 4, do these up to standard of the conditions for previous tasks, and we can see what happens from there.
+----------------------------------------------
+12/07/2019
+
+Completely finished the first three tasks.
+
+Edited the first two tasks 'info' section, finished the third task to completion.
+
+The third task can be coded in many ways, however the shortest obtainable solution was achieved, BUT it isn't adequately tested. Although
+reading finalised code should be applicable in all cases in theory, it would be better if it was fully tested. Re-learning the randint()
+and generating a list with a purposely inputted pattern inside, should be able to do the trick.
+
+To complete task 4, refer to the draft files for task 3, as they provide an insight into how to find the many acceptable similarity peaks.
+
+yeah, complete task 4, then for the rest of the assignment period, test, test, test!
+--------------------------------------------
+20/07/2019
+
+Completed main code for all tasks.
+
+Need to further optimise task 4 and add comments.
+
+--------------------------------------------
+
+
