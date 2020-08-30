@@ -6,4 +6,6 @@ to create better and better pattern recognition in more complex data input cases
 
 All test files were initially built by the course convener, and with their permission we were able to build our own test cases on top of theirs.
 
+This assignment recieved a 100 mark.
+
 Refer to the assignment spec for more information.
