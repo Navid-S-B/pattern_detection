@@ -3,9 +3,7 @@
 """
 Created on --12/07/2019--
 
-@author: -- Navid Shadman Bhuiyan --
-
-ZID: z5260384
+@author: -- Navid Bhuiyan --
 
 Program Description
 -------------------
