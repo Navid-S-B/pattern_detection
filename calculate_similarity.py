@@ -1,7 +1,7 @@
 """
 Created on -- 08/07/2019 --
 
-@author: -- Navid Shadman Bhuiyan --
+@author: -- Navid Bhuiyan --
 
 Program Description
 -------------------
