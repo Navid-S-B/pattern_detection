@@ -3,8 +3,6 @@ Created on -- 08/07/2019 --
 
 @author: -- Navid Shadman Bhuiyan --
 
-ZID: z5260384
-
 Program Description
 -------------------
     The function is expected to return a float value
