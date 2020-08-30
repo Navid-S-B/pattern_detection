@@ -36,7 +36,7 @@ Return Outputs
     similarity_list:
         - A compiled float list of calculated similarity values.
 """
-#Import calculate_similarity to implement it later.
+#Import calculate_similarity to implement it.
 import calculate_similarity as cs
 
 def calculate_similarity_list(data_series, pattern):
